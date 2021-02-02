@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T03:01:50.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="jubECz9lrDRxvdIN_25w" version="14.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T03:11:33.181Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="5ERtxlDEo-7eWu9ylyzW" version="14.1.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="946" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-22" value="&lt;font style=&quot;font-size: 26px&quot;&gt;&amp;nbsp; Kernel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" y="840" width="760" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="uRUTE57Q-J2DXaSNJVPR-25" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&amp;nbsp;Host OS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="uRUTE57Q-J2DXaSNJVPR-25" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&amp;nbsp;Host os&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="700" width="760" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-26" value="Linux Kernel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -20,28 +20,40 @@
           <mxGeometry x="619" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-30" value="虚机图形图像系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="416" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="593" y="730" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-33" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&amp;nbsp;Android&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="40" y="560" width="760" height="120" as="geometry" />
+          <mxGeometry x="40" y="400" width="760" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-34" value="Civita Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-35" value="虚拟硬件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uRUTE57Q-J2DXaSNJVPR-36" value="虚机管理调度系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="730" width="130" height="60" as="geometry" />
+        <mxCell id="uRUTE57Q-J2DXaSNJVPR-36" value="Guest通信系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="730" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-38" value="APK安装控制系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="619" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="730" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-39" value="图形图像系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uRUTE57Q-J2DXaSNJVPR-40" value="图形图像系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="662" y="590" width="120" height="60" as="geometry" />
+        <mxCell id="uRUTE57Q-J2DXaSNJVPR-40" value="Host 通信系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="662" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uRUTE57Q-J2DXaSNJVPR-42" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&amp;nbsp;容器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="550" width="760" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uRUTE57Q-J2DXaSNJVPR-43" value="虚拟资源隔离和控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uRUTE57Q-J2DXaSNJVPR-46" value="虚机管理调度系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="730" width="99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uRUTE57Q-J2DXaSNJVPR-47" value="服务器通信系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="217" y="730" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
