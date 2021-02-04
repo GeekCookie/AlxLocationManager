@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T02:59:20.848Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="x0CNplxSGpaTctUjsIJw" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T03:00:38.031Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="lUpqBim3Z0hhWrKR659s" version="14.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1106" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,13 +77,13 @@
           <mxGeometry x="167.5" y="850" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4JXuSO1Bq_UgXGjO87rY-22" value="渲染指令Decoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="750" width="110" height="30" as="geometry" />
+          <mxGeometry x="550" y="780" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4JXuSO1Bq_UgXGjO87rY-24" value="OpenGl Translator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="790" width="110" height="30" as="geometry" />
+          <mxGeometry x="550" y="820" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4JXuSO1Bq_UgXGjO87rY-25" value="OpenGl Translator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="833" width="110" height="30" as="geometry" />
+        <mxCell id="4JXuSO1Bq_UgXGjO87rY-26" value="图像会话管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="740" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
