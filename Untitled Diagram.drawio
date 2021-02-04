@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T03:15:02.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="_EIKg-hZwNEsJM9NfgJC" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T03:18:22.296Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="dNmROBw_yrPrSb9xD1kA" version="14.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1106" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -37,11 +37,11 @@
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-38" value="APK安装控制系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="701" y="710" width="169" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="uRUTE57Q-J2DXaSNJVPR-39" value="图形图像系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="275" width="120" height="60" as="geometry" />
+        <mxCell id="uRUTE57Q-J2DXaSNJVPR-39" value="图形图像系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="330" y="275" width="120" height="255" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-40" value="Host 通信系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="180" y="270" width="120" height="260" as="geometry" />
+          <mxGeometry x="180" y="275" width="120" height="260" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-42" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&amp;nbsp;容器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="40" y="562" width="850" height="120" as="geometry" />
@@ -111,6 +111,15 @@
         </mxCell>
         <mxCell id="4JXuSO1Bq_UgXGjO87rY-45" value="消息分发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4JXuSO1Bq_UgXGjO87rY-46" value="SurfaceFlinger" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4JXuSO1Bq_UgXGjO87rY-47" value="Gallroc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4JXuSO1Bq_UgXGjO87rY-48" value="HWC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
