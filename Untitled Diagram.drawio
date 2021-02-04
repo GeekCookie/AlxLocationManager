@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T03:12:11.890Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="cVZUvKq0ItAriJQAlbea" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T03:12:59.423Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="LbRlfcNuc7glAyTK9U44" version="14.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1346" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -26,10 +26,10 @@
           <mxGeometry x="40" y="428" width="850" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-34" value="Civita Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="458" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="457" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-35" value="虚拟硬件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="457" width="120" height="60" as="geometry" />
+          <mxGeometry x="477" y="457" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-36" value="Guest通信系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="270" y="710" width="120" height="250" as="geometry" />
@@ -102,6 +102,9 @@
         </mxCell>
         <mxCell id="4JXuSO1Bq_UgXGjO87rY-41" value="硬渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="900" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4JXuSO1Bq_UgXGjO87rY-42" value="虚机加密系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="416" y="850" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
