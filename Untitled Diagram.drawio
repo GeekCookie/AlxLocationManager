@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T02:47:23.126Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="kZ2jT-B7pljVV5-IQtYx" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T02:52:34.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="ZkMBNyxEvYUnjCfTu__6" version="14.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1145" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="1030" width="760" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-25" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&amp;nbsp;Host os&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="41" y="700" width="760" height="310" as="geometry" />
+          <mxGeometry x="40" y="691" width="760" height="310" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-26" value="Linux Kernel" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="1059" width="180" height="60" as="geometry" />
@@ -19,8 +19,8 @@
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-28" value="虚拟驱动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="1059" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uRUTE57Q-J2DXaSNJVPR-30" value="虚机图形图像系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="584" y="710" width="97" height="250" as="geometry" />
+        <mxCell id="uRUTE57Q-J2DXaSNJVPR-30" value="虚机图形图像系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="520" y="710" width="170" height="250" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-33" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&amp;nbsp;Android&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="40" y="428" width="760" height="120" as="geometry" />
@@ -31,27 +31,11 @@
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-35" value="虚拟硬件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="457" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4JXuSO1Bq_UgXGjO87rY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="uRUTE57Q-J2DXaSNJVPR-36" target="uRUTE57Q-J2DXaSNJVPR-46">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="354" y="980" />
-              <mxPoint x="495" y="980" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4JXuSO1Bq_UgXGjO87rY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="uRUTE57Q-J2DXaSNJVPR-36" target="uRUTE57Q-J2DXaSNJVPR-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="324" y="980" />
-              <mxPoint x="633" y="980" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-36" value="Guest通信系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="294" y="710" width="120" height="250" as="geometry" />
+          <mxGeometry x="270" y="710" width="120" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="uRUTE57Q-J2DXaSNJVPR-38" value="APK安装控制系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="701" y="710" width="80" height="90" as="geometry" />
+        <mxCell id="uRUTE57Q-J2DXaSNJVPR-38" value="APK安装控制系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="701" y="710" width="89" height="250" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-39" value="图形图像系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="457" width="120" height="60" as="geometry" />
@@ -68,22 +52,11 @@
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-43" value="虚拟资源隔离和控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="594" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uRUTE57Q-J2DXaSNJVPR-46" value="虚机管理调度系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="710" width="109" height="90" as="geometry" />
+        <mxCell id="uRUTE57Q-J2DXaSNJVPR-46" value="虚机管理调度系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="400" y="710" width="109" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="4JXuSO1Bq_UgXGjO87rY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="uRUTE57Q-J2DXaSNJVPR-47" target="uRUTE57Q-J2DXaSNJVPR-46">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="208" y="1000" />
-              <mxPoint x="495" y="1000" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uRUTE57Q-J2DXaSNJVPR-47" value="服务器通信系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uRUTE57Q-J2DXaSNJVPR-47" value="服务器通信系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="151" y="710" width="113" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="4JXuSO1Bq_UgXGjO87rY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="uRUTE57Q-J2DXaSNJVPR-36" target="uRUTE57Q-J2DXaSNJVPR-40">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
