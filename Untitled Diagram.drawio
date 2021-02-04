@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T10:05:00.485Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="wLiuQUsi_0s5Cr5D0ZVM" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T10:05:23.073Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="tJDuOXHS9LOng6kMRIXL" version="14.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1426" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -44,10 +44,10 @@
           <mxGeometry x="180" y="125" width="120" height="260" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-42" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&amp;nbsp;容器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="40" y="430" width="850" height="242" as="geometry" />
+          <mxGeometry x="40" y="422" width="850" height="242" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-43" value="虚拟资源隔离和控制" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="400" y="573" width="470" height="60" as="geometry" />
+          <mxGeometry x="400" y="565" width="470" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-46" value="虚机管理调度系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="400" y="710" width="109" height="250" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry x="350" y="330" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zp0K--yBvD5XgPpYUhj5-1" value="容器环境准备和配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="397.5" y="479" width="470" height="60" as="geometry" />
+          <mxGeometry x="397.5" y="471" width="470" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zp0K--yBvD5XgPpYUhj5-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="90" width="120" height="1050" as="geometry" />
