@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T02:32:27.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="j7pI2dse_O6XCmRDZipX" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T02:33:35.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="IIoii18JXNGt_76CKcfg" version="14.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1145" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,13 +32,23 @@
           <mxGeometry x="490" y="457" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4JXuSO1Bq_UgXGjO87rY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="uRUTE57Q-J2DXaSNJVPR-36" target="uRUTE57Q-J2DXaSNJVPR-46">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="980" />
+              <mxPoint x="505" y="980" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4JXuSO1Bq_UgXGjO87rY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="uRUTE57Q-J2DXaSNJVPR-36" target="uRUTE57Q-J2DXaSNJVPR-30">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="324" y="980" />
+              <mxPoint x="633" y="980" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-36" value="Guest通信系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="294" y="710" width="120" height="220" as="geometry" />
+          <mxGeometry x="294" y="710" width="120" height="250" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-38" value="APK安装控制系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="701" y="710" width="80" height="90" as="geometry" />
@@ -64,8 +74,8 @@
         <mxCell id="4JXuSO1Bq_UgXGjO87rY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="uRUTE57Q-J2DXaSNJVPR-47" target="uRUTE57Q-J2DXaSNJVPR-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="208" y="960" />
-              <mxPoint x="505" y="960" />
+              <mxPoint x="208" y="1000" />
+              <mxPoint x="505" y="1000" />
             </Array>
           </mxGeometry>
         </mxCell>
