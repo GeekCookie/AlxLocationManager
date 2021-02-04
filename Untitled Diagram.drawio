@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T03:29:18.346Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="GYtXYp_zPBSqVZ_ZDOgD" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T03:30:27.521Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="r9MlRcCcmaEUXC0Ib3-V" version="14.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-25" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&amp;nbsp;Host os&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="40" y="691" width="850" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="uRUTE57Q-J2DXaSNJVPR-26" value="Linux Kernel" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uRUTE57Q-J2DXaSNJVPR-26" value="Linux Kernel" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;strokeColor=#666666;fillColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="220" y="1046" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-27" value="第三方驱动" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -25,10 +25,10 @@
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-33" value="&lt;span style=&quot;font-size: 26px&quot;&gt;&amp;nbsp;Android&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#76608a;strokeColor=#432D57;dashed=1;dashPattern=1 2;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="40" y="240" width="850" height="308" as="geometry" />
         </mxCell>
-        <mxCell id="uRUTE57Q-J2DXaSNJVPR-34" value="Civita Server" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;dashed=1;" parent="1" vertex="1">
+        <mxCell id="uRUTE57Q-J2DXaSNJVPR-34" value="Civita Server" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;dashed=1;gradientColor=#b3b3b3;strokeColor=#666666;fillColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="620" y="275" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uRUTE57Q-J2DXaSNJVPR-35" value="虚拟硬件" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;dashed=1;" parent="1" vertex="1">
+        <mxCell id="uRUTE57Q-J2DXaSNJVPR-35" value="虚拟硬件" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;dashed=1;gradientColor=#b3b3b3;strokeColor=#666666;fillColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="477" y="275" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRUTE57Q-J2DXaSNJVPR-36" value="Guest通信系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
